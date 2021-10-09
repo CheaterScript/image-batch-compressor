@@ -1,0 +1,11 @@
+altgraph==0.17.2
+future==0.18.2
+numpy==1.21.2
+opencv-python==4.5.3.56
+pefile==2021.9.3
+Pillow==8.3.2
+pyinstaller==4.5.1
+pyinstaller-hooks-contrib==2021.3
+PySide2==5.15.2
+pywin32-ctypes==0.2.0
+shiboken2==5.15.2
